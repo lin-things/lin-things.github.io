@@ -1,0 +1,41 @@
+---
+layout: post
+title: How to find the most cited papers from any journal on Web of Science
+date: 2024-02-27
+description: 
+tags: how-to
+categories: 
+thumbnail:
+---
+*I would provide screenshots, but unfortunately I'm having trouble accessing with `Attempt to authenticate non-existent session`... Sorry!*
+
+---
+
+### Step 1
+Access `Web of Science Core Collection` from NYU Library: [https://guides.nyu.edu/az.php?a=w](https://guides.nyu.edu/az.php?a=w). 
+
+Log in using your NYU credentials.
+
+If you are prompted with `Attempt to authenticate non-existent session`, clear the cookies for `nyu.edu` and `duosecurity.com`. Then try again.
+
+### Step 2
+In the dropdown menu, select `Publication/Source Titles`. 
+
+In the textbox, type in the `name of the journal` you want to search. 
+
+Click `Search`.
+
+### Step 3
+In the dropdown menu next to `Sort by`, select `Citation`.
+
+You can obviously sort by other things too!
+
+### Step 4
+In the dropdown menu next to `Export`, select `Excel (.xlsx)`.
+
+Choose the `number of entires` you'd like to include.
+
+Done! :partying_face:
+
+
+
