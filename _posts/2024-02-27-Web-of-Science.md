@@ -7,7 +7,7 @@ tags: how-to
 categories: 
 thumbnail:
 ---
-*I would provide screenshots, but unfortunately I'm having trouble accessing with `Attempt to authenticate non-existent session`... Sorry!*
+*I would provide screenshots, but unfortunately `Attempt to authenticate non-existent session` won't go away... Sorry!*
 
 ---
 
